@@ -1,6 +1,6 @@
 using System;
 using System.Collections.Generic; // Този ред е задължителен, когато искаме да работим със стекове и опашки
-namespace regex
+namespace StackQueues
 {
     class Program
     {
