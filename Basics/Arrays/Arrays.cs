@@ -5,9 +5,6 @@ namespace Arrays {
     {
         public static void Main()
         {
-                        // Console.WriteLine( dummyObject.showStudentInfo() );
-            // Console.WriteLine( dummyObjectTwo.showStudentInfo() );
-            // Console.WriteLine( dummyObjectThree.showStudentInfo() );
             // тук създаваме масив от целочислен тип данни с име IntArray и размер 7. ю
             // Това означава, че той ще има точно 7 елемента, които ще са празни. 
             // Представете си кутия бонбони със само 7 (ПРАЗНИ) слота за бонбони. Така ще изглежда нашият масив
